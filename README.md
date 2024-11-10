@@ -52,7 +52,10 @@
   </a>
 </div>
 
-![jaehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoojaehyun12&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoojaehyun12&show_icons=true&theme=radical" />
+</div>
+
 
 
 
