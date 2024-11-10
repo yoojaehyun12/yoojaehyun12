@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 
 **![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoojaehyun12&show_icons=true&theme=synthwave)
 
-https://img.shields.io/gitea/forks/:user/:repo
+
+<img src="https://img.shields.io/badge/white?style=flat-square&logo=python&logoColor=blue"/></a>&nbsp
